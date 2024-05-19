@@ -1,19 +1,16 @@
-## Getting Started
+# Recursion Example
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A example of using an recursion to return the product of 5 numbers from a user input
 
-## Folder Structure
+# Steps to run this program
 
-The workspace contains two folders by default, where:
+1. Open your computer terminal and navigate to the directory you wish to store the project
+2. Run `git clone git@github.com:itsnameissteven/csc372-mod5.git`
+3. Run `cd csc372-mod5/`
+4. Run `javac -d ./build/ src/*.java `
+5. Run `cd build`
+6. Run `java Main `
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Contributors
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# csc372-mod4
+- [Steven Mancine](https://github.com/itsnameissteven)
